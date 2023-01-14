@@ -1,4 +1,4 @@
-## Image deblurring
+# Image deblurring
 
 ## Implementations of algorithms presented in the following papers:
 (tvrof) Leonid I. Rudin, Stanley Osher, Emad Fatemi, Nonlinear total variation based noise removal algorithms, 1992<br>
