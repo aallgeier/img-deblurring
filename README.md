@@ -1,12 +1,12 @@
 # Image deblurring
 
 ## Implementations of algorithms presented in the following papers:
-(tvrof) Leonid I. Rudin, Stanley Osher, Emad Fatemi, Nonlinear total variation based noise removal algorithms, 1992<br>
-(shock filter) Stanley Osher and Leonid I. Rudin, Feature-Oriented Image Enhancement Using Shock Filters, 1990<br>
-(semi-blind) James H. Money, Sung Ha Kang, TOTAL VARIATION SEMI-BLIND DECONVOLUTION USING SHOCK FILTERS, 2006
+**(tvrof)** Leonid I. Rudin, Stanley Osher, Emad Fatemi, Nonlinear total variation based noise removal algorithms, 1992<br>
+**(shock filter)** Stanley Osher and Leonid I. Rudin, Feature-Oriented Image Enhancement Using Shock Filters, 1990<br>
+**(semi-blind)** James H. Money, Sung Ha Kang, Total Variation Semi-Blind Deconvolution Using Shock Filters, 2006
 
 
-## Generated images from implemented code
+## Images generated from implemented code
 ### tvrof
 Denoising by minimizing the total variation of an image (tvrof); enhancing edges.
 <p float="left">
