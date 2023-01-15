@@ -21,7 +21,7 @@ Enhancing edges.
   <img src="generated images/shock filter/shockfilter-shocked.png" width="250" /> 
 </p>
 
-### Semi-blind
+### semi-blind
 Solving Euler-Lagrange equiations to find the blur kernel and the crisp image by the Lagged Diffusivity Fixed Point Method with a shock filtered image as the initial input and the conjugate gradient method.
 <p float="left">
   <img src="generated images/semi-blind/semi-blind-blurry-image.png" width="250" />
