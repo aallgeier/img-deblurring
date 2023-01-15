@@ -8,7 +8,7 @@
 
 ## Images generated from implemented code
 ### tvrof
-Denoising by minimizing the total variation of an image (tvrof); enhancing edges.
+Denoising by minimizing the total variation of an image.
 <p float="left">
   <img src="generated images/tvrof/tvrof-noisy.png" width="250" />
   <img src="generated images/tvrof/tvrof-denoised.png" width="250" /> 
