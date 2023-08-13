@@ -1,12 +1,14 @@
-# Image deblurring
+## Project Name 
+Classical Image Deblurring and Denoising Methods
 
-## Implementations of algorithms presented in the following papers:
+## Summary
+Implemented in MATLAB algorithms provided in the following papers: <br>
 **(tvrof)** Leonid I. Rudin, Stanley Osher, Emad Fatemi, Nonlinear total variation based noise removal algorithms, 1992<br>
 **(shock filter)** Stanley Osher and Leonid I. Rudin, Feature-Oriented Image Enhancement Using Shock Filters, 1990<br>
 **(semi-blind)** James H. Money, Sung Ha Kang, Total Variation Semi-Blind Deconvolution Using Shock Filters, 2006
 
 
-## Images generated from implemented code
+## Generated Images
 ### tvrof
 Denoising by minimizing the total variation of an image.
 <p float="left">
