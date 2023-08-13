@@ -8,7 +8,7 @@ Implemented in MATLAB algorithms provided in the following papers: <br>
 **(semi-blind)** James H. Money, Sung Ha Kang, Total Variation Semi-Blind Deconvolution Using Shock Filters, 2006
 
 
-## Generated Images
+## Generated images
 ### tvrof
 Denoising by minimizing the total variation of an image.
 <p float="left">
